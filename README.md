@@ -25,6 +25,7 @@ A simple browser-based math quiz built with **HTML, TypeScript, and JSON**.
 
 ## Project Structure
 project-folder
+.
 │
 ├── index.html
 ├── app.ts
